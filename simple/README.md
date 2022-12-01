@@ -14,6 +14,8 @@ percentagem do distribuidor e dos impostos (aplicados ao custo de fábrica). Sup
 seja de 28% e os impostos de 45%, escreva um algoritmo que leia o custo de fábrica de um carro e escreva o custo ao 
 consumidor.</div>
 6. [DIO Somar múltiplos](https://github.com/MauricioMH35/java-challenges/blob/main/simple/src/main/java/com/challenges/java/Challenge006.java) | October 15, 2022 <div style="text-align:justify;">Retorne o valor da soma de todos múltiplos de "A" até o seu limite "N"</div>
+7. [DIO Somatório de N]() | October 15, 2022 <div style="text-align:justify;">Imprima o somatório de N (utilize o 
+8. método "somatorio") de todos seus números anteriores.</div>
 
 # CRATED
 BY MAURICIO MITYO HIDANI | AT DEZEMBER 01, 2022 | SÃO PAULO - BRASIL
