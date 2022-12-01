@@ -9,7 +9,7 @@ import java.util.Scanner;
  * @since October 15, 2022
  * @version 1.0.0
  * */
-public class Challenge006 {
+public class Challenge0006 {
 
     public static void main(String[] args) {
         int A, N;
