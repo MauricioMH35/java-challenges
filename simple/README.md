@@ -16,10 +16,9 @@ consumidor.</div>
 6. [DIO Somar múltiplos](https://github.com/MauricioMH35/java-challenges/blob/main/simple/src/main/java/com/challenges/java/Challenge006.java) | October 15, 2022 <div style="text-align:justify;">Retorne o valor da soma de todos múltiplos de "A" até o seu limite "N"</div>
 7. [DIO Somatório de N](https://github.com/MauricioMH35/java-challenges/blob/main/simple/src/main/java/com/challenges/java/Challenge0007.java) | October 15, 2022 <div style="text-align:justify;">Imprima o somatório de N (utilize o 8. método "somatorio") de todos seus 
 números anteriores.</div>
-8. [DIO Entre Múltiplos de dois números]() | October 15, 2022 <div style="text-align:justify;">Procure pelo múltiplo 
-entre dois valores inteiros e apresente a mensagem "FizzBuzz" se os dois valores possuirem o mesmo múltiplo, "Fizz" 
-caso apenas o primerio número possuir o múltiplo indicado e "Buzz" se apenas o segundo número possuir esse 
-múltiplo.</div>
+8. [DIO Entre Múltiplos de dois números](https://github.com/MauricioMH35/java-challenges/blob/main/simple/src/main/java/com/challenges/java/Challenge0008.java) | October 15, 2022 <div style="text-align:justify;">Procure pelo múltiplo entre dois valores inteiros e 
+9. apresente a mensagem "FizzBuzz" se os dois valores possuirem o mesmo múltiplo, "Fizz" caso apenas o primerio número 
+10. possuir o múltiplo indicado e "Buzz" se apenas o segundo número possuir esse múltiplo.</div>
 
 # CRATED
 BY MAURICIO MITYO HIDANI | AT DEZEMBER 01, 2022 | SÃO PAULO - BRASIL
