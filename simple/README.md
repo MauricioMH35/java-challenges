@@ -20,6 +20,7 @@ números anteriores.</div>
 a mensagem "FizzBuzz" se os dois valores possuirem o mesmo múltiplo, "Fizz" caso apenas o primerio número possuir o 
 múltiplo indicado e "Buzz" se apenas o segundo número possuir esse múltiplo.</div>
 9. [DIO Encontre o número no array](https://github.com/MauricioMH35/java-challenges/blob/main/simple/src/main/java/com/challenges/java/Challenge0009.java) | October 15, 2022 <div style="text-align:justify;">Retorne o valor do elemento no Array junto de sua respectiva posição.</div>
+10. [DIO Palíndromo]() | October 15 <div style="text-align:justify;">Neste desafio você deverá construir uma função que recebe uma String e identifique se a mesma é um palíndromo, ou seja, se a String é igual a ela mesma invertida. Dado que temos a String "digital" uma vez invertida temos "latigid" que são diferentes. Logo, NÃO é um Palíndromo. Já se recebemos a string "radar" uma vez invertida temos "radar" que são iguais.</div>
 
 # CRATED
 BY MAURICIO MITYO HIDANI | AT DEZEMBER 01, 2022 | SÃO PAULO - BRASIL
