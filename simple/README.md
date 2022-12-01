@@ -19,6 +19,7 @@ números anteriores.</div>
 8. [DIO Entre Múltiplos de dois números](https://github.com/MauricioMH35/java-challenges/blob/main/simple/src/main/java/com/challenges/java/Challenge0008.java) | October 15, 2022 <div style="text-align:justify;">Procure pelo múltiplo entre dois valores inteiros e apresente 
 a mensagem "FizzBuzz" se os dois valores possuirem o mesmo múltiplo, "Fizz" caso apenas o primerio número possuir o 
 múltiplo indicado e "Buzz" se apenas o segundo número possuir esse múltiplo.</div>
+9. [DIO Encontre o número no array]() | October 15, 2022 <div style="text-align:justify;"></div>
 
 # CRATED
 BY MAURICIO MITYO HIDANI | AT DEZEMBER 01, 2022 | SÃO PAULO - BRASIL
