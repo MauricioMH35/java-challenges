@@ -25,7 +25,7 @@ Entrada Uma string é considerada válida se: Caracteres de abertura devem ser f
 21. [Tabuada](https://github.com/MauricioMH35/java-challenges/blob/main/simple/src/main/java/com/challenges/java/Challenge0021.java) | November 24, 2022 <div style="text-align:justify;">Crie um algoritmo que leia 20 números do usuário e exiba a sua tabuada de multiplicação.</div>
 22. [Maiores que 8](https://github.com/MauricioMH35/java-challenges/blob/main/simple/src/main/java/com/challenges/java/Challenge0022.java) | November 14, 2022 <div style="text-align:justify;">Escreva um algoritmo que leia 20 números do usuário e exiba quantos números são maiores do que 8.</div>
 23. [Todos os pares](https://github.com/MauricioMH35/java-challenges/blob/main/simple/src/main/java/com/challenges/java/Challenge0023.java) | November 14, 2022 <div style="text-align:justify;">Escreva um algoritmo que leia 20 numeros do usuario e exiba quantos sao pares.</div>
-24. [Entre zero e 100]() | November 14, 2022 <div style="text-align:justify;">Escreva um algoritmo que leia 20 numeros do usuario e exiba quantos estao entre 0 e 100.</div>
+24. [Entre zero e 100](https://github.com/MauricioMH35/java-challenges/blob/main/simple/src/main/java/com/challenges/java/Challenge0024.java) | November 14, 2022 <div style="text-align:justify;">Escreva um algoritmo que leia 20 numeros do usuario e exiba quantos estao entre 0 e 100.</div>
 
 # CRATED
 BY MAURICIO MITYO HIDANI | AT DEZEMBER 01, 2022 | SÃO PAULO - BRASIL
