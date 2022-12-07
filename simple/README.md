@@ -15,6 +15,7 @@
 Entrada Uma string é considerada válida se: Caracteres de abertura devem ser fechadas pelo mesmo tipo. Abertura devem ser fechados com uma chave correspondente. Uma string vazia é considerada válida.</div>
 12. [DIO Quantidade de Soma de Quadrados Perfeitos](https://github.com/MauricioMH35/java-challenges/blob/main/simple/src/main/java/com/challenges/java/Challenge0012.java) | October 18, 2022 <div style="text-align:justify;">Dado um inteiro n, retorne o menor número de números quadrados perfeitos cuja soma seja n. Um quadrado perfeito é um inteiro que é o quadrado de um inteiro; em outras palavras, é o produto de algum inteiro consigo mesmo. Por exemplo, 1, 4, 9 e 16 são quadrados perfeitos, enquanto 3 e 11 não são.</div>
 13. [DIO Organizando Pares e Ímpares](https://github.com/MauricioMH35/java-challenges/blob/main/simple/src/main/java/com/challenges/java/Challenge0013.java) | October 16, 2022 <div style="text-align:justify;">Mova todos os inteiros pares para o inicio do array, seguido por todos os números ímpares</div>
+14. [DIO Fatorial Desajeitado]() | October 18, 2022 <div style="text-align:justify;">Realizar uma operação de fatorial que ao invés de realizar apenas a operação de multiplicação dos números que decrecem até se chegar ao resultado esperado do fatorial de determinado número. Deve-se trocar a multiplicação pela sequência de operações aritméticas: * / + -. Estas devem se repetir até que o resultado desse fatorial desajeitado seja resolvido.</div>
 
 # CRATED
 BY MAURICIO MITYO HIDANI | AT DEZEMBER 01, 2022 | SÃO PAULO - BRASIL
