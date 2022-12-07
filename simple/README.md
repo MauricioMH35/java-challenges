@@ -14,6 +14,7 @@
 11. [DIO Combinação de Caracteres](https://github.com/MauricioMH35/java-challenges/blob/main/simple/src/main/java/com/challenges/java/Challenge0011.java) | October 15, 2022 <div style="test-align:justify;">Dada uma string com apenas os seguintes caracteres '(', ')', '{', '}', '[', ']' determine se uma determinada string é válida.
 Entrada Uma string é considerada válida se: Caracteres de abertura devem ser fechadas pelo mesmo tipo. Abertura devem ser fechados com uma chave correspondente. Uma string vazia é considerada válida.</div>
 12. [DIO Quantidade de Soma de Quadrados Perfeitos](https://github.com/MauricioMH35/java-challenges/blob/main/simple/src/main/java/com/challenges/java/Challenge0012.java) | October 18, 2022 <div style="text-align:justify;">Dado um inteiro n, retorne o menor número de números quadrados perfeitos cuja soma seja n. Um quadrado perfeito é um inteiro que é o quadrado de um inteiro; em outras palavras, é o produto de algum inteiro consigo mesmo. Por exemplo, 1, 4, 9 e 16 são quadrados perfeitos, enquanto 3 e 11 não são.</div>
+13. [DIO Organizando Pares e Ímpares]() | October 16, 2022 <div style="text-align:justify;">Mova todos os inteiros pares para o inicio do array, seguido por todos os números ímpares</div>
 
 # CRATED
 BY MAURICIO MITYO HIDANI | AT DEZEMBER 01, 2022 | SÃO PAULO - BRASIL
