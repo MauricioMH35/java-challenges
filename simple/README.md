@@ -17,8 +17,7 @@ Entrada Uma string é considerada válida se: Caracteres de abertura devem ser f
 13. [DIO Organizando Pares e Ímpares](https://github.com/MauricioMH35/java-challenges/blob/main/simple/src/main/java/com/challenges/java/Challenge0013.java) | October 16, 2022 <div style="text-align:justify;">Mova todos os inteiros pares para o inicio do array, seguido por todos os números ímpares</div>
 14. [DIO Fatorial Desajeitado](https://github.com/MauricioMH35/java-challenges/blob/main/simple/src/main/java/com/challenges/java/Challenge0014.java) | October 18, 2022 <div style="text-align:justify;">Realizar uma operação de fatorial que ao invés de realizar apenas a operação de multiplicação dos números que decrecem até se chegar ao resultado esperado do fatorial de determinado número. Deve-se trocar a multiplicação pela sequência de operações aritméticas: * / + -. Estas devem se repetir até que o resultado desse fatorial desajeitado seja resolvido.</div>
 15. [Repetição de nome](https://github.com/MauricioMH35/java-challenges/blob/main/simple/src/main/java/com/challenges/java/Challenge0015.java) | November 14, 2022 <div style="text-align:justify;">Leia o nome e um número do usuário, um número N e escreva o nome dele na tela N vezes.</div>
-16. [Soma de numeros](https://github.com/MauricioMH35/java-challenges/blob/main/simple/src/main/java/com/challenges/java/Challenge0016.java) | November 14, 2022 <div style="text-align:justify;">Escreva um algoritmo que leia 10 números do usuário e calcule a soma
-* desses números.</div>
+16. [Soma de numeros](https://github.com/MauricioMH35/java-challenges/blob/main/simple/src/main/java/com/challenges/java/Challenge0016.java) | November 14, 2022 <div style="text-align:justify;">Escreva um algoritmo que leia 10 números do usuário e calcule a soma desses números.</div>
 
 # CRATED
 BY MAURICIO MITYO HIDANI | AT DEZEMBER 01, 2022 | SÃO PAULO - BRASIL
