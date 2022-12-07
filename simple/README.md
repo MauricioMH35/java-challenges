@@ -22,6 +22,7 @@ Entrada Uma string é considerada válida se: Caracteres de abertura devem ser f
 18. [Media de idade](https://github.com/MauricioMH35/java-challenges/blob/main/simple/src/main/java/com/challenges/java/Challenge0018.java) | November 14, 2022 <div style="text-align:justify;">Leia a idade de 20 pessoas e exiba a média das idades.</div>
 19. [Maiores de idade](https://github.com/MauricioMH35/java-challenges/blob/main/simple/src/main/java/com/challenges/java/Challenge0019.java) | November 14, 2022 <div style="text-align:justify;">Leia a idade de 20 pessoas e exiba quantas pessoas são maiores de idade.</div>
 20. [A mais nova](https://github.com/MauricioMH35/java-challenges/blob/main/simple/src/main/java/com/challenges/java/Challenge0020.java) | November 14, 2022 <div style="text-align:justify;">Leia o nome e a idade de 10 pessoas e exiba o nome da pessoa mais nova.</div>
+21. [Tabuada]() | November 24, 2022 <div style="text-align:justify;">Crie um algoritmo que leia 20 números do usuário e exiba a sua tabuada de multiplicação.</div>
 
 # CRATED
 BY MAURICIO MITYO HIDANI | AT DEZEMBER 01, 2022 | SÃO PAULO - BRASIL
