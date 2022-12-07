@@ -23,7 +23,7 @@ Entrada Uma string é considerada válida se: Caracteres de abertura devem ser f
 19. [Maiores de idade](https://github.com/MauricioMH35/java-challenges/blob/main/simple/src/main/java/com/challenges/java/Challenge0019.java) | November 14, 2022 <div style="text-align:justify;">Leia a idade de 20 pessoas e exiba quantas pessoas são maiores de idade.</div>
 20. [A mais nova](https://github.com/MauricioMH35/java-challenges/blob/main/simple/src/main/java/com/challenges/java/Challenge0020.java) | November 14, 2022 <div style="text-align:justify;">Leia o nome e a idade de 10 pessoas e exiba o nome da pessoa mais nova.</div>
 21. [Tabuada](https://github.com/MauricioMH35/java-challenges/blob/main/simple/src/main/java/com/challenges/java/Challenge0021.java) | November 24, 2022 <div style="text-align:justify;">Crie um algoritmo que leia 20 números do usuário e exiba a sua tabuada de multiplicação.</div>
-22. [Maiores que 8]() | November 14, 2022 <div style="text-align:justify;">Escreva um algoritmo que leia 20 números do usuário e exiba quantos números são maiores do que 8.</div>
+22. [Maiores que 8](https://github.com/MauricioMH35/java-challenges/blob/main/simple/src/main/java/com/challenges/java/Challenge0022.java) | November 14, 2022 <div style="text-align:justify;">Escreva um algoritmo que leia 20 números do usuário e exiba quantos números são maiores do que 8.</div>
 
 # CRATED
 BY MAURICIO MITYO HIDANI | AT DEZEMBER 01, 2022 | SÃO PAULO - BRASIL
