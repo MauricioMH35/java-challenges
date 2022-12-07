@@ -20,7 +20,7 @@ import java.util.regex.Pattern;
  * @since October 15, 2022
  * @version 1.0.0
  * */
-public class Challenges0011 {
+public class Challenge0011 {
 
     public static void main(String[] args) {
         final Scanner scanner= new Scanner(System.in);
