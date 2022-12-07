@@ -19,7 +19,7 @@ Entrada Uma string é considerada válida se: Caracteres de abertura devem ser f
 15. [Repetição de nome](https://github.com/MauricioMH35/java-challenges/blob/main/simple/src/main/java/com/challenges/java/Challenge0015.java) | November 14, 2022 <div style="text-align:justify;">Leia o nome e um número do usuário, um número N e escreva o nome dele na tela N vezes.</div>
 16. [Soma de numeros](https://github.com/MauricioMH35/java-challenges/blob/main/simple/src/main/java/com/challenges/java/Challenge0016.java) | November 14, 2022 <div style="text-align:justify;">Escreva um algoritmo que leia 10 números do usuário e calcule a soma desses números.</div>
 17. [Soma de idades](https://github.com/MauricioMH35/java-challenges/blob/main/simple/src/main/java/com/challenges/java/Challenge0017.java) | November 14, 2022 <div style="text-align:justify;">Leia a idade de 20 pessoas e exiba a soma das idades.</div>
-18. [Media de idade]() | November 14, 2022 <div style="text-align:justify;">Leia a idade de 20 pessoas e exiba a média das idades.</div>
+18. [Media de idade](https://github.com/MauricioMH35/java-challenges/blob/main/simple/src/main/java/com/challenges/java/Challenge0018.java) | November 14, 2022 <div style="text-align:justify;">Leia a idade de 20 pessoas e exiba a média das idades.</div>
 
 # CRATED
 BY MAURICIO MITYO HIDANI | AT DEZEMBER 01, 2022 | SÃO PAULO - BRASIL
